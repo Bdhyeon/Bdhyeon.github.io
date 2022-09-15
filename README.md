@@ -21,7 +21,10 @@ GitHub: https://github.com/Bdhyeon
 - 개발환경:   
 ![프로젝트개발환경](https://user-images.githubusercontent.com/101542378/190292906-92dd22b9-141d-40da-90b4-e7ff618cf6c3.png)   
 - 맡은 역할: 레시피 게시판 총괄(DB설계와 관리, 게시판 구현)   
-- GitHub: https://github.com/stilinskii/jjeopjjeopRecipe
+- GitHub: https://github.com/stilinskii/jjeopjjeopRecipe   
+
+#### + 기능 설명
+[프레젠테이션 자료](https://www.miricanvas.com/design/11e0d7v)   
 
 
 #### + 테스트 사이트
