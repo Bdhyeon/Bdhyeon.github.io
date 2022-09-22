@@ -5,6 +5,7 @@
 ```
 email: bdhn1100@gmail.com   
 GitHub: https://github.com/Bdhyeon
+blog:
 ```   
 
 ## Skill
