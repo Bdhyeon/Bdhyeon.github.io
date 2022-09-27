@@ -34,7 +34,11 @@ blog: https://bdhn1100.tistory.com/
 - GitHub: https://github.com/stilinskii/jjeopjjeopRecipe   
 
 #### + 주요 기능
-[프레젠테이션 자료](https://www.miricanvas.com/design/11e0d7v)   
+[프레젠테이션 자료](https://www.miricanvas.com/v/11e0d7v) 
+- 레시피 게시판 작성, 조회, 수정, 삭제
+- 글 작성 시 유효성 검사
+- 덧글 작성, 조회, 수정, 삭제(Ajax 기법 사용)
+- ...
 
 
 #### + 테스트 사이트
